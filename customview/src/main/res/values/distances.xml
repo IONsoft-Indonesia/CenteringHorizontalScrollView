@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--duration per 200, duration at 9th is 300, at end, back to 1-->
+    <string-array name="distance1" translatable="false">
+        <item>@drawable/radius1_3</item>
+        <item>@drawable/radius1_1</item>
+        <item>@drawable/radius1_7</item>
+        <item>@drawable/radius1_9</item>
+        <item>@drawable/radius1_1</item>
+    </string-array>
+
+    <!--duration per 100, start from 1, at end back to 1     -->
+    <!--1234567321-->
+    <string-array name="distance2" translatable="false">
+        <item>@drawable/radius2_2</item>
+        <item>@drawable/radius2_3</item>
+        <item>@drawable/radius2_4</item>
+        <item>@drawable/radius2_5</item>
+        <item>@drawable/radius2_6</item>
+        <item>@drawable/radius2_7</item>
+        <item>@drawable/radius2_1</item>
+    </string-array>
+
+    <!--duration per 100, start from 11, at end back to 11     -->
+    <string-array name="distance3" translatable="false">
+        <item>@drawable/radius3_1</item>
+        <item>@drawable/radius3_2</item>
+        <item>@drawable/radius3_3</item>
+        <item>@drawable/radius3_4</item>
+        <item>@drawable/radius3_5</item>
+        <item>@drawable/radius3_6</item>
+        <item>@drawable/radius3_7</item>
+        <item>@drawable/radius3_8</item>
+        <item>@drawable/radius3_9</item>
+        <item>@drawable/radius3_10</item>
+        <item>@drawable/radius3_11</item>
+    </string-array>
+
+    <!--duration per 100, start from 11, at end back to 11     -->
+    <string-array name="distance4" translatable="false">
+        <item>@drawable/radius4_1</item>
+        <item>@drawable/radius4_2</item>
+        <item>@drawable/radius4_3</item>
+        <item>@drawable/radius4_4</item>
+        <item>@drawable/radius4_5</item>
+        <item>@drawable/radius4_6</item>
+        <item>@drawable/radius4_7</item>
+        <item>@drawable/radius4_8</item>
+        <item>@drawable/radius4_9</item>
+        <item>@drawable/radius4_10</item>
+        <item>@drawable/radius4_11</item>
+    </string-array>
+
+    <!--duration per 100, start from 1, at end back to 5,4,3,2,1     -->
+    <!--at 6 duration 200-->
+    <string-array name="distance5" translatable="false">
+        <item>@drawable/radius5_2</item>
+        <item>@drawable/radius5_3</item>
+        <item>@drawable/radius5_4</item>
+        <item>@drawable/radius5_5</item>
+        <item>@drawable/radius5_6</item>
+        <item>@drawable/radius5_1</item>
+    </string-array>
+
+    <!--duration per 100, start from 11, at end back to 11     -->
+    <string-array name="distance6" translatable="false">
+        <item>@drawable/radius6_1</item>
+        <item>@drawable/radius6_2</item>
+        <item>@drawable/radius6_3</item>
+        <item>@drawable/radius6_4</item>
+        <item>@drawable/radius6_5</item>
+        <item>@drawable/radius6_6</item>
+        <item>@drawable/radius6_7</item>
+        <item>@drawable/radius6_8</item>
+        <item>@drawable/radius6_9</item>
+        <item>@drawable/radius6_10</item>
+        <item>@drawable/radius6_1</item>
+    </string-array>
+</resources>

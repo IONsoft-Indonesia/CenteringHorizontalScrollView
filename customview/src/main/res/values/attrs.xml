@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DistanceItemView">
+        <attr name="viewPosition" format="integer" />
+        <attr name="viewText" format="string" />
+        <attr name="viewBitmap" format="integer" />
+    </declare-styleable>
+</resources>
